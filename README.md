@@ -10,8 +10,14 @@ Sound analysis using Librosa.
 
 Streamlit version of Report:  https://mystery-at-the-preserve.herokuapp.com/
 
-Report:
+Report:  Suspense at the Wildlife Preserve.v2.pdf
 
-Presentation:
+Presentation:  Cheep Shots-Final.pdf
 
-Code:
+Code (Jupyter Notebook):
+
+Modeling:  PJO_Final_Model.ipynb
+
+Visualizations:  PJO_Final_Visualizations.ipynb
+
+Final:  PJO_Final.ipynb
